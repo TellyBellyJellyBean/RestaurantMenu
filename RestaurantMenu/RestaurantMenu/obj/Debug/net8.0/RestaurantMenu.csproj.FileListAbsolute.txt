@@ -1,0 +1,15 @@
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/bin/Debug/net8.0/RestaurantMenu
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/bin/Debug/net8.0/RestaurantMenu.deps.json
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/bin/Debug/net8.0/RestaurantMenu.runtimeconfig.json
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/bin/Debug/net8.0/RestaurantMenu.dll
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/bin/Debug/net8.0/RestaurantMenu.pdb
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.AssemblyInfoInputs.cache
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.AssemblyInfo.cs
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.csproj.CoreCompileInputs.cache
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.sourcelink.json
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.dll
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/refint/RestaurantMenu.dll
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.pdb
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/RestaurantMenu.genruntimeconfig.cache
+/Users/telly/Desktop/LaunchCode/LaunchCode-Unit2/chapter4_studio/RestaurantMenu/RestaurantMenu/RestaurantMenu/obj/Debug/net8.0/ref/RestaurantMenu.dll
